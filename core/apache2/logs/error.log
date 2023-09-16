@@ -1,0 +1,109 @@
+[Sun May 14 19:59:32.780364 2023] [mpm_winnt:notice] [pid 9956:tid 424] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun May 14 19:59:32.780364 2023] [mpm_winnt:notice] [pid 9956:tid 424] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun May 14 19:59:32.780364 2023] [core:notice] [pid 9956:tid 424] AH00094: Command line: 'D:\\leon\\temp\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/temp/UniServer/core/apache2 -f D:\\leon\\temp\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\temp\\UniServer\\core\\apache2'
+[Sun May 14 19:59:32.780364 2023] [mpm_winnt:notice] [pid 9956:tid 424] AH00418: Parent: Created child process 19472
+[Sun May 14 19:59:33.420464 2023] [mpm_winnt:notice] [pid 19472:tid 412] AH00354: Child: Starting 150 worker threads.
+[Sun May 14 19:59:33.430278 2023] [rewrite:error] [pid 19472:tid 1932] [client ::1:61317] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/index.php
+[Sun May 14 20:05:11.403089 2023] [php:error] [pid 19472:tid 1932] [client ::1:61439] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\\leon\\temp\\UniServer\\home\\us_opt1\\libraries\\classes\\Dbal\\DbiMysqli.php on line 209
+[Sun May 14 20:05:50.706760 2023] [php:error] [pid 19472:tid 1940] [client ::1:61446] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\\leon\\temp\\UniServer\\home\\us_opt1\\libraries\\classes\\Session.php on line 204
+[Sun May 14 20:05:52.125611 2023] [php:error] [pid 19472:tid 1932] [client ::1:61451] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\\leon\\temp\\UniServer\\tmp\\twig\\15\\156fd6d20ca5599b0aedac6af12c13cb.php on line 295
+[Sun May 14 20:06:22.916102 2023] [rewrite:error] [pid 19472:tid 1912] [client ::1:61486] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/
+[Sun May 14 20:07:12.753681 2023] [core:warn] [pid 5736:tid 416] AH00098: pid file D:/leon/temp/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 14 20:07:12.791544 2023] [mpm_winnt:notice] [pid 5736:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun May 14 20:07:12.791544 2023] [mpm_winnt:notice] [pid 5736:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun May 14 20:07:12.791544 2023] [core:notice] [pid 5736:tid 416] AH00094: Command line: 'D:\\leon\\temp\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/temp/UniServer/core/apache2 -f D:\\leon\\temp\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\temp\\UniServer\\core\\apache2'
+[Sun May 14 20:07:12.795548 2023] [mpm_winnt:notice] [pid 5736:tid 416] AH00418: Parent: Created child process 20040
+[Sun May 14 20:07:13.389970 2023] [mpm_winnt:notice] [pid 20040:tid 416] AH00354: Child: Starting 150 worker threads.
+[Sun May 14 20:07:13.486249 2023] [rewrite:error] [pid 20040:tid 1920] [client ::1:61495] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/index.php
+[Sun May 14 20:07:23.395842 2023] [rewrite:error] [pid 20040:tid 1916] [client ::1:61496] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/
+[Sun May 14 20:17:25.976954 2023] [core:warn] [pid 21180:tid 416] AH00098: pid file D:/leon/temp/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 14 20:17:26.004651 2023] [mpm_winnt:notice] [pid 21180:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun May 14 20:17:26.004651 2023] [mpm_winnt:notice] [pid 21180:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun May 14 20:17:26.004651 2023] [core:notice] [pid 21180:tid 416] AH00094: Command line: 'D:\\leon\\temp\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/temp/UniServer/core/apache2 -f D:\\leon\\temp\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\temp\\UniServer\\core\\apache2'
+[Sun May 14 20:17:26.008183 2023] [mpm_winnt:notice] [pid 21180:tid 416] AH00418: Parent: Created child process 8728
+[Sun May 14 20:17:26.572662 2023] [mpm_winnt:notice] [pid 8728:tid 412] AH00354: Child: Starting 150 worker threads.
+[Sun May 14 20:18:42.213672 2023] [rewrite:error] [pid 8728:tid 1928] [client ::1:61622] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/
+[Sun May 14 20:26:56.341470 2023] [core:warn] [pid 2972:tid 440] AH00098: pid file D:/leon/temp/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 14 20:26:56.401453 2023] [mpm_winnt:notice] [pid 2972:tid 440] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun May 14 20:26:56.401453 2023] [mpm_winnt:notice] [pid 2972:tid 440] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun May 14 20:26:56.401453 2023] [core:notice] [pid 2972:tid 440] AH00094: Command line: 'D:\\leon\\temp\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/temp/UniServer/core/apache2 -f D:\\leon\\temp\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\temp\\UniServer\\core\\apache2'
+[Sun May 14 20:26:56.406463 2023] [mpm_winnt:notice] [pid 2972:tid 440] AH00418: Parent: Created child process 18744
+[Sun May 14 20:26:56.976293 2023] [mpm_winnt:notice] [pid 18744:tid 416] AH00354: Child: Starting 150 worker threads.
+[Sun May 14 20:26:56.986169 2023] [rewrite:error] [pid 18744:tid 1904] [client ::1:61763] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/index.php
+[Sun May 14 20:27:01.533610 2023] [rewrite:error] [pid 18744:tid 1936] [client ::1:61762] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/
+[Sun May 14 20:27:05.776735 2023] [rewrite:error] [pid 18744:tid 1936] [client ::1:61762] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/
+[Sun May 14 20:28:58.795679 2023] [core:warn] [pid 19876:tid 416] AH00098: pid file D:/leon/temp/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 14 20:28:58.826782 2023] [mpm_winnt:notice] [pid 19876:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun May 14 20:28:58.826782 2023] [mpm_winnt:notice] [pid 19876:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun May 14 20:28:58.826782 2023] [core:notice] [pid 19876:tid 416] AH00094: Command line: 'D:\\leon\\temp\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/temp/UniServer/core/apache2 -f D:\\leon\\temp\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\temp\\UniServer\\core\\apache2'
+[Sun May 14 20:28:58.835907 2023] [mpm_winnt:notice] [pid 19876:tid 416] AH00418: Parent: Created child process 9456
+[Sun May 14 20:28:59.365822 2023] [mpm_winnt:notice] [pid 9456:tid 420] AH00354: Child: Starting 150 worker threads.
+[Sun May 14 20:28:59.657858 2023] [rewrite:error] [pid 9456:tid 1904] [client ::1:61768] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/index.php
+[Sun May 14 20:29:05.875034 2023] [rewrite:error] [pid 9456:tid 1908] [client ::1:61767] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/
+[Sun May 14 20:29:15.340569 2023] [core:warn] [pid 2348:tid 416] AH00098: pid file D:/leon/temp/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 14 20:29:15.367783 2023] [mpm_winnt:notice] [pid 2348:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun May 14 20:29:15.367783 2023] [mpm_winnt:notice] [pid 2348:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun May 14 20:29:15.367783 2023] [core:notice] [pid 2348:tid 416] AH00094: Command line: 'D:\\leon\\temp\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/temp/UniServer/core/apache2 -f D:\\leon\\temp\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\temp\\UniServer\\core\\apache2'
+[Sun May 14 20:29:15.370756 2023] [mpm_winnt:notice] [pid 2348:tid 416] AH00418: Parent: Created child process 17604
+[Sun May 14 20:29:15.898038 2023] [mpm_winnt:notice] [pid 17604:tid 412] AH00354: Child: Starting 150 worker threads.
+[Sun May 14 20:29:16.169849 2023] [rewrite:error] [pid 17604:tid 1932] [client ::1:61770] AH00670: Options FollowSymLinks and SymLinksIfOwnerMatch are both off, so the RewriteRule directive is also forbidden due to its similar ability to circumvent directory restrictions : D:/leon/temp/UniServer/www/index.php
+[Sun May 14 20:34:21.775248 2023] [core:warn] [pid 6068:tid 416] AH00098: pid file D:/leon/temp/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 14 20:34:21.824771 2023] [mpm_winnt:notice] [pid 6068:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun May 14 20:34:21.824771 2023] [mpm_winnt:notice] [pid 6068:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun May 14 20:34:21.824771 2023] [core:notice] [pid 6068:tid 416] AH00094: Command line: 'D:\\leon\\temp\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/temp/UniServer/core/apache2 -f D:\\leon\\temp\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\temp\\UniServer\\core\\apache2'
+[Sun May 14 20:34:21.824771 2023] [mpm_winnt:notice] [pid 6068:tid 416] AH00418: Parent: Created child process 14784
+[Sun May 14 20:34:22.404898 2023] [mpm_winnt:notice] [pid 14784:tid 412] AH00354: Child: Starting 150 worker threads.
+[Mon May 15 08:53:25.527100 2023] [core:warn] [pid 6680:tid 416] AH00098: pid file D:/leon/projects/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 15 08:53:26.013254 2023] [mpm_winnt:notice] [pid 6680:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Mon May 15 08:53:26.013254 2023] [mpm_winnt:notice] [pid 6680:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Mon May 15 08:53:26.013254 2023] [core:notice] [pid 6680:tid 416] AH00094: Command line: 'D:\\leon\\projects\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/projects/UniServer/core/apache2 -f D:\\leon\\projects\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\projects\\UniServer\\core\\apache2'
+[Mon May 15 08:53:26.028890 2023] [mpm_winnt:notice] [pid 6680:tid 416] AH00418: Parent: Created child process 6348
+[Mon May 15 08:53:26.643073 2023] [mpm_winnt:notice] [pid 6348:tid 412] AH00354: Child: Starting 150 worker threads.
+[Tue May 23 14:58:59.379273 2023] [core:warn] [pid 47476:tid 416] AH00098: pid file D:/leon/projects/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 23 14:58:59.798250 2023] [mpm_winnt:notice] [pid 47476:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Tue May 23 14:58:59.799277 2023] [mpm_winnt:notice] [pid 47476:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Tue May 23 14:58:59.799277 2023] [core:notice] [pid 47476:tid 416] AH00094: Command line: 'D:\\leon\\projects\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/leon/projects/UniServer/core/apache2 -f D:\\leon\\projects\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\leon\\projects\\UniServer\\core\\apache2'
+[Tue May 23 14:58:59.803246 2023] [mpm_winnt:notice] [pid 47476:tid 416] AH00418: Parent: Created child process 40972
+[Tue May 23 14:59:01.762053 2023] [mpm_winnt:notice] [pid 40972:tid 412] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 24 14:51:34.607185 2023] [core:warn] [pid 8932:tid 416] AH00098: pid file C:/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 24 14:51:34.644462 2023] [mpm_winnt:notice] [pid 8932:tid 416] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Thu Aug 24 14:51:34.644462 2023] [mpm_winnt:notice] [pid 8932:tid 416] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Thu Aug 24 14:51:34.644462 2023] [core:notice] [pid 8932:tid 416] AH00094: Command line: 'C:\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServer/core/apache2 -f C:\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\UniServer\\core\\apache2'
+[Thu Aug 24 14:51:34.648492 2023] [mpm_winnt:notice] [pid 8932:tid 416] AH00418: Parent: Created child process 15484
+[Thu Aug 24 14:51:35.186680 2023] [mpm_winnt:notice] [pid 15484:tid 416] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 15 10:08:26.228831 2023] [core:warn] [pid 20372:tid 432] AH00098: pid file D:/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 15 10:08:26.284730 2023] [mpm_winnt:notice] [pid 20372:tid 432] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Fri Sep 15 10:08:26.284730 2023] [mpm_winnt:notice] [pid 20372:tid 432] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Fri Sep 15 10:08:26.284730 2023] [core:notice] [pid 20372:tid 432] AH00094: Command line: 'D:\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/UniServer/core/apache2 -f D:\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\UniServer\\core\\apache2'
+[Fri Sep 15 10:08:26.286730 2023] [mpm_winnt:notice] [pid 20372:tid 432] AH00418: Parent: Created child process 1172
+[Fri Sep 15 10:08:26.613218 2023] [mpm_winnt:notice] [pid 1172:tid 272] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 15 11:05:42.502498 2023] [core:warn] [pid 3060:tid 424] AH00098: pid file D:/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 15 11:05:42.523147 2023] [mpm_winnt:notice] [pid 3060:tid 424] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Fri Sep 15 11:05:42.523147 2023] [mpm_winnt:notice] [pid 3060:tid 424] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Fri Sep 15 11:05:42.523147 2023] [core:notice] [pid 3060:tid 424] AH00094: Command line: 'D:\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/UniServer/core/apache2 -f D:\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\UniServer\\core\\apache2'
+[Fri Sep 15 11:05:42.524654 2023] [mpm_winnt:notice] [pid 3060:tid 424] AH00418: Parent: Created child process 7276
+[Fri Sep 15 11:05:42.836615 2023] [mpm_winnt:notice] [pid 7276:tid 416] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 15 19:56:34.168071 2023] [core:warn] [pid 26032:tid 432] AH00098: pid file D:/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 15 19:56:34.239208 2023] [mpm_winnt:notice] [pid 26032:tid 432] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Fri Sep 15 19:56:34.239208 2023] [mpm_winnt:notice] [pid 26032:tid 432] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Fri Sep 15 19:56:34.239208 2023] [core:notice] [pid 26032:tid 432] AH00094: Command line: 'D:\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/UniServer/core/apache2 -f D:\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\UniServer\\core\\apache2'
+[Fri Sep 15 19:56:34.240207 2023] [mpm_winnt:notice] [pid 26032:tid 432] AH00418: Parent: Created child process 21232
+[Fri Sep 15 19:56:34.598696 2023] [mpm_winnt:notice] [pid 21232:tid 412] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 15 20:58:19.915348 2023] [core:warn] [pid 29564:tid 420] AH00098: pid file D:/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 15 20:58:19.937397 2023] [mpm_winnt:notice] [pid 29564:tid 420] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Fri Sep 15 20:58:19.937397 2023] [mpm_winnt:notice] [pid 29564:tid 420] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Fri Sep 15 20:58:19.937397 2023] [core:notice] [pid 29564:tid 420] AH00094: Command line: 'D:\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/UniServer/core/apache2 -f D:\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\UniServer\\core\\apache2'
+[Fri Sep 15 20:58:19.938379 2023] [mpm_winnt:notice] [pid 29564:tid 420] AH00418: Parent: Created child process 28856
+[Fri Sep 15 20:58:20.294064 2023] [mpm_winnt:notice] [pid 28856:tid 420] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 15 21:00:45.546598 2023] [core:warn] [pid 1768:tid 424] AH00098: pid file D:/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 15 21:00:45.568658 2023] [mpm_winnt:notice] [pid 1768:tid 424] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Fri Sep 15 21:00:45.568658 2023] [mpm_winnt:notice] [pid 1768:tid 424] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Fri Sep 15 21:00:45.568658 2023] [core:notice] [pid 1768:tid 424] AH00094: Command line: 'D:\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/UniServer/core/apache2 -f D:\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\UniServer\\core\\apache2'
+[Fri Sep 15 21:00:45.569635 2023] [mpm_winnt:notice] [pid 1768:tid 424] AH00418: Parent: Created child process 6532
+[Fri Sep 15 21:00:45.922490 2023] [mpm_winnt:notice] [pid 6532:tid 420] AH00354: Child: Starting 150 worker threads.
+[Fri Sep 15 21:01:27.479198 2023] [core:warn] [pid 7852:tid 432] AH00098: pid file D:/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 15 21:01:27.503049 2023] [mpm_winnt:notice] [pid 7852:tid 432] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Fri Sep 15 21:01:27.503049 2023] [mpm_winnt:notice] [pid 7852:tid 432] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Fri Sep 15 21:01:27.503049 2023] [core:notice] [pid 7852:tid 432] AH00094: Command line: 'D:\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d D:/UniServer/core/apache2 -f D:\\UniServer\\core\\apache2\\conf\\httpd.conf -d D:\\UniServer\\core\\apache2'
+[Fri Sep 15 21:01:27.505054 2023] [mpm_winnt:notice] [pid 7852:tid 432] AH00418: Parent: Created child process 1532
+[Fri Sep 15 21:01:27.964360 2023] [mpm_winnt:notice] [pid 1532:tid 420] AH00354: Child: Starting 150 worker threads.

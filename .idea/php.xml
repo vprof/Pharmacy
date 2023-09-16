@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/www/vendor/leon-mbs/zdb" />
+      <path value="$PROJECT_DIR$/www/vendor/leon-mbs/ppolib" />
+      <path value="$PROJECT_DIR$/www/vendor/leon-mbs/zippy" />
+      <path value="$PROJECT_DIR$/www/vendor/automattic/woocommerce" />
+      <path value="$PROJECT_DIR$/www/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/www/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/www/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/www/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/www/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/www/vendor/lis-dev/nova-poshta-api-2" />
+      <path value="$PROJECT_DIR$/www/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/www/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/www/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/www/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/www/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/www/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/www/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/www/vendor/composer" />
+      <path value="$PROJECT_DIR$/www/vendor/mustache/mustache" />
+      <path value="$PROJECT_DIR$/www/vendor/masterexploder/phpthumb" />
+      <path value="$PROJECT_DIR$/www/vendor/picqer/php-barcode-generator" />
+      <path value="$PROJECT_DIR$/www/vendor/endroid/qr-code" />
+      <path value="$PROJECT_DIR$/www/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/www/vendor/sop/asn1" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/www/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/www/vendor/adodb/adodb-php" />
+      <path value="$PROJECT_DIR$/www/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/www/vendor/leon-mbs/phpquery" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+</project>

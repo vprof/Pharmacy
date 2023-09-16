@@ -1,0 +1,21 @@
+{
+    "name": "leon-mbs/zdb",
+    "description": "Библиотека для работы  с БД",
+    "keywords": [  "database", "php" ],
+    "homepage": "https://zippy.com.ua/zdb",   
+
+    "license": "MIT",
+   "minimum-stability" : "dev",
+   "prefer-stable" : true,
+    "type": "library",
+   
+    "require": {
+         "php": ">=7.4.0",
+         "adodb/adodb-php": "v5.22.6"
+    },
+
+ 
+    "autoload" : {
+        "files" : ["entity.php","db.php"]
+    }
+}

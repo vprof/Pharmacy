@@ -1,0 +1,24 @@
+{
+    "name": "leon-mbs/zippy",
+    "description": "Компонентный событийно-ориентированный PHP фреймворк",
+    "keywords": [  "framework", "php" ],
+    "homepage": "https://zippy.com.ua/frm",
+
+    "license": "MIT",
+   "minimum-stability" : "dev",
+   "prefer-stable" : true,
+    "type": "library",
+    
+   
+    "require": {
+         "php": ">=7.4.0",
+         "mustache/mustache": "v2.14.2",
+         "leon-mbs/zdb": "1.5.11",
+         "leon-mbs/phpquery" :">=1.0.0" 
+    },
+
+ 
+    "autoload" : {
+        "files" : ["zippy.inc.php"]
+    }
+}

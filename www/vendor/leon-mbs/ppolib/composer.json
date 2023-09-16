@@ -1,0 +1,19 @@
+{
+    "name": "leon-mbs/ppolib",
+    "description": "Библиотека  цифровой подписи для РРО (Украина)",
+    "license" : "MIT",
+    "homepage": "https://github.com/leon-mbs/ppolib",
+    "require": {
+        "php": ">=7.2",
+        "sop/asn1": "4.1.0" 
+    },
+ 
+    "authors": [
+        {
+             "name": "Леонид Мартынюк" 
+        }
+    ],
+    "autoload" : {
+        "files" : ["src/autoload.php"]
+    }
+}

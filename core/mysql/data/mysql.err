@@ -1,0 +1,199 @@
+2023-05-14T16:59:09.999388Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-14T16:59:09.999406Z 0 [System] [MY-010116] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 6036
+2023-05-14T16:59:10.903744Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: a5bddfc8-f278-11ed-9e1f-0a002700001d.
+2023-05-14T16:59:10.976822Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-14T16:59:16.652098Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-05-14T16:59:17.477097Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'D:\leon\temp\UniServer\core\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2023-05-14T16:59:18.003585Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-05-14T16:59:18.003890Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-05-14T16:59:18.208614Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-05-14T16:59:18.208897Z 0 [System] [MY-010931] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-05-14T17:00:02.406190Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-14T17:00:02.406205Z 0 [System] [MY-010116] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 16420
+2023-05-14T17:00:02.788075Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-14T17:00:05.464866Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-05-14T17:00:06.130646Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-05-14T17:00:06.138105Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-05-14T17:00:06.170394Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'D:\leon\temp\UniServer\core\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2023-05-14T17:00:06.443190Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-05-14T17:00:06.444590Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-05-14T17:00:06.855016Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-05-14T17:00:06.855295Z 0 [System] [MY-010931] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-05-14T17:07:06.622104Z 102 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2023-05-14T17:07:06.622519Z 0 [System] [MY-013105] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-05-14T17:07:08.011749Z 0 [System] [MY-010910] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-05-14T17:07:08.935229Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-14T17:07:08.935245Z 0 [System] [MY-010116] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 14300
+2023-05-14T17:07:08.998723Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-14T17:07:11.217226Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-05-14T17:07:12.312926Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-05-14T17:07:12.313218Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-05-14T17:07:12.701380Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-05-14T17:07:12.701550Z 0 [System] [MY-010931] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-05-14T17:28:34.360449Z 10 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2023-05-14T17:28:34.360896Z 0 [System] [MY-013105] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-05-14T17:28:35.621435Z 0 [System] [MY-010910] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-05-14T17:35:15.813689Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-14T17:35:15.813708Z 0 [System] [MY-010116] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 19704
+2023-05-14T17:35:16.028083Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-14T17:35:17.198697Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-05-14T17:35:18.182790Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-05-14T17:35:18.184274Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-05-14T17:35:18.657106Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-05-14T17:35:18.657369Z 0 [System] [MY-010931] [Server] D:\leon\temp\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-05-15T05:52:19.355059Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-15T05:52:19.355078Z 0 [System] [MY-010116] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 21356
+2023-05-15T05:52:19.885242Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-15T05:52:22.230089Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-05-15T05:52:23.109921Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-05-15T05:52:23.114314Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-05-15T05:52:23.892545Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-05-15T05:52:23.893061Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-05-15T05:52:23.968976Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-05-15T05:52:23.969249Z 0 [System] [MY-010931] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-05-15T05:58:12.687273Z 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2023-05-15T05:58:12.689132Z 0 [System] [MY-013105] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-05-15T05:58:13.153038Z 0 [System] [MY-010910] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-05-23T11:59:01.997292Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-23T11:59:01.997312Z 0 [System] [MY-010116] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 11408
+2023-05-23T11:59:02.210291Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-23T11:59:04.079493Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-05-23T11:59:05.093488Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-05-23T11:59:05.093803Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-05-23T11:59:05.603920Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-05-23T11:59:05.604091Z 0 [System] [MY-010931] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-05-23T12:02:55.973695Z 22 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2023-05-23T12:02:55.974063Z 0 [System] [MY-013105] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-05-23T12:02:57.405907Z 0 [System] [MY-010910] [Server] D:\leon\projects\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-08-24T11:52:00.080298Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-08-24T11:52:00.080316Z 0 [System] [MY-010116] [Server] C:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 10584
+2023-08-24T11:52:00.101937Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-08-24T11:52:00.906842Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-08-24T11:52:01.429024Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-08-24T11:52:01.429400Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-08-24T11:52:01.496892Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-08-24T11:52:01.497071Z 0 [System] [MY-010931] [Server] C:\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2023-08-24T11:56:24.446707Z 69 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2023-08-24T11:56:24.447273Z 0 [System] [MY-013105] [Server] C:\UniServer\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-08-24T11:56:25.081074Z 0 [System] [MY-010910] [Server] C:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T07:02:55.736668Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T07:02:55.736680Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 16596
+2023-09-15T07:02:55.758627Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T07:02:55.923837Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T07:02:56.185661Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T07:02:56.185947Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T07:02:56.186799Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T07:02:56.187120Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T07:02:56.187469Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T07:02:57.368969Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T07:04:39.373496Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T07:04:39.373507Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 26472
+2023-09-15T07:04:39.382139Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T07:04:39.516534Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T07:04:39.740491Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T07:04:39.740671Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T07:04:39.741253Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T07:04:39.741556Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T07:04:39.741880Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T07:04:40.820698Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T07:08:36.920505Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T07:08:36.920516Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 15124
+2023-09-15T07:08:36.928154Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T07:08:37.067973Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T07:08:37.288252Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T07:08:37.288430Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T07:08:37.288996Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T07:08:37.289297Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T07:08:37.289616Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T07:08:38.371577Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T07:10:04.529143Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T07:10:04.529154Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 4588
+2023-09-15T07:10:04.536094Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T07:10:04.666302Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T07:10:04.913093Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T07:10:04.913288Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T07:10:04.944084Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-09-15T07:10:04.944108Z 0 [System] [MY-010931] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2023-09-15T07:13:25.940245Z 9 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2023-09-15T07:13:25.940865Z 0 [System] [MY-013105] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2023-09-15T07:13:27.157214Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T07:13:42.810464Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T07:13:42.810474Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 10084
+2023-09-15T07:13:42.819268Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T07:13:43.001647Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T07:13:43.251128Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T07:13:43.251348Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T07:13:43.251933Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T07:13:43.252230Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T07:13:43.252545Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T07:13:44.316056Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T08:05:43.624651Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T08:05:43.624664Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 6672
+2023-09-15T08:05:43.700448Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T08:05:44.051106Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T08:05:44.471360Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T08:05:44.471582Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T08:05:44.472816Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T08:05:44.473181Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T08:05:44.473601Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T08:05:45.508148Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T16:56:39.289925Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T16:56:39.289939Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 27028
+2023-09-15T16:56:39.326214Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T16:56:39.539954Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T16:56:39.836002Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T16:56:39.836209Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T16:56:39.837320Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T16:56:39.837665Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T16:56:39.838039Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T16:56:40.877450Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T17:58:17.247462Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T17:58:17.247476Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 19156
+2023-09-15T17:58:17.264252Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T17:58:17.447223Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T17:58:17.716350Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T17:58:17.716571Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T17:58:17.717714Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T17:58:17.718121Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T17:58:17.718643Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T17:58:18.764226Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T17:58:21.108508Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T17:58:21.108535Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 28948
+2023-09-15T17:58:21.119037Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T17:58:21.294070Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T17:58:21.543052Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T17:58:21.543233Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T17:58:21.543819Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T17:58:21.544125Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T17:58:21.544465Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T17:58:22.985870Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T18:00:44.173683Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T18:00:44.173696Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 22640
+2023-09-15T18:00:44.184040Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T18:00:44.366879Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T18:00:44.632519Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T18:00:44.632719Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T18:00:44.633368Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T18:00:44.633717Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T18:00:44.634082Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T18:00:45.715597Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T18:00:49.706533Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T18:00:49.706546Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 24216
+2023-09-15T18:00:49.715668Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T18:00:49.899913Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T18:00:50.176750Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T18:00:50.176964Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T18:00:50.177851Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T18:00:50.178296Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T18:00:50.178658Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T18:00:51.241986Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2023-09-15T18:01:31.018451Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-09-15T18:01:31.018462Z 0 [System] [MY-010116] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 26992
+2023-09-15T18:01:31.027965Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-09-15T18:01:31.210921Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-09-15T18:01:31.458812Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-09-15T18:01:31.458998Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-09-15T18:01:31.459565Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: An attempt was made to access a socket in a way forbidden by its access permissions. 
+2023-09-15T18:01:31.459875Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2023-09-15T18:01:31.460287Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-09-15T18:01:32.561254Z 0 [System] [MY-010910] [Server] D:\UniServer\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
